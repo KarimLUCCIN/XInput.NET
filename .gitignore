@@ -1,0 +1,7 @@
+Bin/
+bin/
+obj/
+Debug/
+Release/
+/XInput.sln.ide/
+*.suo
